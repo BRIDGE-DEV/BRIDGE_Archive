@@ -7,10 +7,12 @@
 ### 개발관련
 
 - [스터디/소모임 관련](/Development/README.md/#스터디소모임-관련)
+- [방법론](/Development/README.md/#방법론)
 
 ### 언어
 
 - [C++](/Language/README.md/#C++)
+- [C#](/Language/README.md/#c-1)
 
 <details><summary>README</summary>
 <p>
