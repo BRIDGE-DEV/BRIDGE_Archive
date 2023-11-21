@@ -2,22 +2,7 @@
 
 브릿지 아카이브란, 브릿지 프로그래머들이 공유하고자 하는 지식을 남겨 도서관을 만드는 장소입니다.
 
-## 카테고리
-
-### 개발관련
-
-- [스터디/소모임 관련](/Development/README.md/#스터디소모임-관련)
-- [프로젝트 관련](/Development/README.md/#프로젝트-관련)
-- [방법론](/Development/README.md/#방법론)
-
-### 게임 엔진
-
-- [유니티](/GameEngine/README.md/#유니티)
-
-### 언어
-
-- [C++](/Language/README.md/#C++)
-- [C#](/Language/README.md/#c-1)
+*자세한 내용은 아래 README를 읽어주세요*
 
 <details><summary>README</summary>
 <p>
@@ -91,4 +76,23 @@ A. 자료 공유나 사담을 위한 디스코드방은 존재하나 회의는 �
 
 </p>
 </details> 
+
+
+
+## 카테고리
+
+### 개발관련
+
+- [스터디/소모임 관련](/Development/README.md/#스터디소모임-관련)
+- [프로젝트 관련](/Development/README.md/#프로젝트-관련)
+- [방법론](/Development/README.md/#방법론)
+
+### 게임 엔진
+
+- [유니티](/GameEngine/README.md/#유니티)
+
+### 언어
+
+- [C++](/Language/README.md/#C++)
+- [C#](/Language/README.md/#c-1)
 
