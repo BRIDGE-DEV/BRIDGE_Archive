@@ -1,12 +1,8 @@
 # 개발관련
 
-## 스터디/소모임 관련
+## 알고리즘
 
-- [fkdl0048: 스터디 회고록](https://fkdl0048.github.io/daily/StudyRetrospect/)
-
-## 프로젝트 관련
-
-- [fkdl0048: 게임 개발에서 PM이란?](https://fkdl0048.github.io/daily/GamePM/)
+- [fkdl0048: BF관련 정리](https://fkdl0048.github.io/algorithm/Algorithm_BF/)
 
 ## 방법론
 

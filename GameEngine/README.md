@@ -6,3 +6,4 @@
 - [fkdl0048: 우당당탕 Unity PlayMode 문제 해결 과정](https://fkdl0048.github.io/unity/unity_in_PlayModeTestFrameProblem/)
 - [joonyle: YMAL 파일 오류](https://joonyle99.github.io/trouble_shooting/Trouble_Shooting-Broken-text-PPtr-in-file/)
 - [rpopic: 버튼 클릭시 UnityAction에서 NullReferenceException이 뜰 때](https://www.notion.so/blog-rpopic/UnityAction-NullReferenceException-8483efb42ba1468ab4aadc8f761d7c55?pvs=4)
+- [joonyle99: StateMachineBehaviour와 Animation Transition](https://joonyle99.github.io/unity/Unity-StateMachineBehavior-&-Animation/)
