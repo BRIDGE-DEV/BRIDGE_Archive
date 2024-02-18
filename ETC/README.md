@@ -7,6 +7,8 @@
 ## 스터디/소모임 관련
 
 - [fkdl0048: 스터디 회고록](https://fkdl0048.github.io/daily/StudyRetrospect/)
+- [fkdl0048: 23년 회고록](https://fkdl0048.github.io/daily/memoir_23/)
+- [fkdl0048: 개발 일지[2]](https://fkdl0048.github.io/game/game_13/)
 
 ## 프로젝트 관련
 
