@@ -95,6 +95,7 @@ A. 자료 공유나 사담을 위한 디스코드방은 존재하나 회의는 �
 ### 개발관련
 
 - [알고리즘](/Development/README.md/#알고리즘)
+- [아키텍처](/Development/README.md/#아키텍처)
 - [방법론](/Development/README.md/#방법론)
 
 ### ETC
